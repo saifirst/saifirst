@@ -23,7 +23,8 @@
 <a href="https://www.leetcode.com/saifbtoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saifbtoush" height="30" width="40" /></a>
 </p>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:</h3>
+[![Languages and Tools](https://skillicons.dev/icons?i=ps,js,ai,HTML,git,flutter,figma,dart,CSS,cpp&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifirst&show_icons=true&locale=en&layout=compact" alt="saifirst" /></p>
 
