@@ -24,7 +24,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![Languages and Tools](https://skillicons.dev/icons?i=ps,js,ai,HTML,git,flutter,figma,dart,CSS,cpp&theme=light)](https://skillicons.dev)
+
+[![Languages and Tools](https://skillicons.dev/icons?i=ps,js,ai,html,git,flutter,figma,dart,css,cpp&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifirst&show_icons=true&locale=en&layout=compact" alt="saifirst" /></p>
 
